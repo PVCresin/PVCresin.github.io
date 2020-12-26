@@ -76,6 +76,8 @@ html {
         justify-content: center;
         align-items: baseline;
         font-size: 1.5rem; }
+        .components-about > .about-text ul li .icon svg {
+          height: 1.5rem; }
       .components-about > .about-text ul li .right {
         display: flex;
         align-items: center;
@@ -244,6 +246,8 @@ html {
       width: 3rem; }
       .components-social > ul li a:hover {
         color: white; }
+      .components-social > ul li a > svg {
+        height: 2rem; }
       .components-social > ul li a .icon-box {
         margin: auto;
         width: 2rem;
@@ -285,6 +289,8 @@ html {
     margin-top: 1rem; }
   .components-first > .container .arrow {
     display: inline-block; }
+    .components-first > .container .arrow svg {
+      height: 3rem; }
 
 @media (max-width: 768px) {
   .container > h1 {
