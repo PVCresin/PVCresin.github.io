@@ -248,19 +248,6 @@ html {
         color: white; }
       .components-social > ul li a > svg {
         height: 2rem; }
-      .components-social > ul li a .icon-box {
-        margin: auto;
-        width: 2rem;
-        height: 2rem;
-        background: #525252; }
-        .components-social > ul li a .icon-box:hover {
-          background: white; }
-        .components-social > ul li a .icon-box.hatena {
-          mask-image: url(/icon-hatena.svg);
-          -webkit-mask-image: url(/icon-hatena.svg); }
-        .components-social > ul li a .icon-box.wantedly {
-          mask-image: url(/icon-wantedly.svg);
-          -webkit-mask-image: url(/icon-wantedly.svg); }
 
 .components-first {
   text-align: center;
